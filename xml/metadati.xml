@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collezione> 
+<item n="100049" id=""> 
+	<genere> </genere>
+	<titolo-item> </titolo-item>
+	<immagine riferimenti="img/img-metadati.jpeg"/>
+	<metadati>
+		<titolo-opera>Sixteenth century manuscript partbook fragments</titolo-opera>
+		<autore></autore>
+		<data>between 1564 and 1584?</data>
+		<identificativo tipo="digital">https://hdl.loc.gov/loc.music/musemnotation.100049</identificativo>
+		<identificativo tipo="permalink">https://lccn.loc.gov/2015561754</identificativo>
+		<supporto tipo="dimensioni">20 cm</supporto>
+		<segnatura>M2.1 XVI M1</segnatura>
+		<soggetti>
+			<termine n="1"></termine>
+			<termine n="2"></termine>
+			<termine n="3"></termine>
+		</soggetti>
+	</metadati>
+</item>
+<item n="" id=""> 
+	<genere> </genere>
+	<titolo-item> </titolo-item>
+	<immagine/>
+	<metadati>
+		<titolo-opera></titolo-opera>
+		<autore></autore>
+		<data></data>
+		<identificativo tipo="digital"></identificativo>
+		<identificativo tipo="permalink"></identificativo>
+		<supporto tipo="dimensioni"></supporto>
+		<segnatura></segnatura>
+		<soggetti>
+			<termine n="1"></termine>
+			<termine n="2"></termine>
+			<termine n="3"></termine>
+		</soggetti>
+	</metadati>
+</item>
+<item n="" id=""> 
+	<genere> </genere>
+	<titolo-item> </titolo-item>
+	<immagine/>
+	<metadati>
+		<titolo-opera></titolo-opera>
+		<autore></autore>
+		<data></data>
+		<identificativo tipo="digital"></identificativo>
+		<identificativo tipo="permalink"></identificativo>
+		<supporto tipo="dimensioni"></supporto>
+		<segnatura></segnatura>
+		<soggetti>
+			<termine n="1"></termine>
+			<termine n="2"></termine>
+			<termine n="3"></termine>
+		</soggetti>
+	</metadati>
+</item>
+</collezione>

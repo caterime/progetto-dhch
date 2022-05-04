@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collezione xmlns:dc="http://purl.org/dc/elements/1.1/" xml:id="collezione"> 
+<item n="1" xml:id="collezione-100049"> 
+	<genere> </genere>
+	<titolo-item> </titolo-item>
+	<immagine riferimenti="img/img-metadati.jpeg"/>
+	<metadati>
+		<dc:title>Sixteenth century manuscript partbook fragments</dc:title>
+		<dc:creator></creator>
+		<dc:date>between 1564 and 1584?</dc:date>
+		<dc:identifier tipo="digital">https://hdl.loc.gov/loc.music/musemnotation.100049</dc:identifier>
+		<dc:identifier tipo="permalink">https://lccn.loc.gov/2015561754</dc:identifier>
+		<dc:format tipo="dimensioni">20 cm</dc:format>
+		<dc:identifier>M2.1 XVI M1</dc:identifier>
+		<dc:subject>
+			<termine n="1"></termine>
+			<termine n="2"></termine>
+			<termine n="3"></termine>
+		</dc:subject>
+		<dc:rights>The contents of the Library of Congress 10th-16th Century Liturgical Chants Collection are in the public domain and are free to use and reuse.</dc:rights>
+		<dc:language>Latin</dc:language>
+	</metadati>
+</item>
+<item n="2" id=""> 
+	<genere> </genere>
+	<titolo-item> </titolo-item>
+	<immagine/>
+	<metadati>
+		<titolo-opera></titolo-opera>
+		<autore></autore>
+		<data></data>
+		<identificativo tipo="digital"></identificativo>
+		<identificativo tipo="permalink"></identificativo>
+		<supporto tipo="dimensioni"></supporto>
+		<segnatura></segnatura>
+		<soggetti>
+			<termine n="1"></termine>
+			<termine n="2"></termine>
+			<termine n="3"></termine>
+		</soggetti>
+	</metadati>
+</item>
+<item n="" id=""> 
+	<genere> </genere>
+	<titolo-item> </titolo-item>
+	<immagine/>
+	<metadati>
+		<titolo-opera></titolo-opera>
+		<autore></autore>
+		<data></data>
+		<identificativo tipo="digital"></identificativo>
+		<identificativo tipo="permalink"></identificativo>
+		<supporto tipo="dimensioni"></supporto>
+		<segnatura></segnatura>
+		<soggetti>
+			<termine n="1"></termine>
+			<termine n="2"></termine>
+			<termine n="3"></termine>
+		</soggetti>
+	</metadati>
+</item>
+</collezione>
